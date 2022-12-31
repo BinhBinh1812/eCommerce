@@ -1,0 +1,3 @@
+export const SCREEN_NAME = {
+  HOME_SCREEN: 'SCREEN_NAME/HOME_SCREEN',
+};
